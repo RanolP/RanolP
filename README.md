@@ -6,5 +6,12 @@ I usually write codes with Kotlin, Rust, or TypeScript.
 
 #### Contact
 
-[![Telegram](https://img.shields.io/badge/@FunctionalInterface-%20-%20?style=social&logo=telegram)](https://t.me/FunctionalInterface)
-[![Twitter](https://img.shields.io/twitter/follow/RanolP_777?style=social)](https://twitter.com/RanolP_777)
+<p>
+  <a href="https://t.me/FunctionalInterface">
+    <img src="https://img.shields.io/badge/@FunctionalInterface-%20-%20?style=social&logo=telegram" height="24px">
+  </a>
+  <img src="https://lingtalfi.com/services/pngtext?font=Noto Sans&color=999999&size=24&text=|" height="24px">
+  <a href="https://twitter.com/RanolP_777">
+    <img src="https://img.shields.io/twitter/follow/RanolP_777?style=social" height="24px">
+  </a>
+</p>
