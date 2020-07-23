@@ -14,6 +14,12 @@ I'm a student programmer who interested in Web Frontend & Programming Language T
   <a href="https://t.me/FunctionalInterface">
     <img src="https://img.shields.io/badge/Telegram-@FunctionalInterface-white?style=social&logo=telegram">
   </a>
+  <a href="https://t.me/RanolP">
+    <img src="https://img.shields.io/badge/Telegram-join-white?style=social&logo=telegram">
+  </a>
+  <a href="https://discord.gg/RFuWN4q">
+    <img src="https://img.shields.io/badge/Discord-join-white?style=social&logo=discord">
+  </a>
   <a href="https://twitter.com/RanolP_777">
     <img src="https://img.shields.io/twitter/follow/RanolP_777?style=social">
   </a>
