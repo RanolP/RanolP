@@ -42,16 +42,42 @@ I'm a student programmer who interested in Web Frontend & Programming Language T
   </a>
 </p>
 
+#### Interesting Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/RanolP/timer-table"><img src="https://gh-card.dev/repos/RanolP/timer-table.svg"></a>
+    </td>
+    <td>
+      <a href="https://github.com/RanolP/boj"><img src="https://gh-card.dev/repos/RanolP/boj.svg"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/RanolP/mfsjea.jvm"><img src="https://gh-card.dev/repos/RanolP/mfsjea.jvm.svg"></a>
+    </td>
+    <td>
+      <a href="https://github.com/daily-boj/RanolP"><img src="https://gh-card.dev/repos/daily-boj/RanolP.svg"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/daily-boj/homepage"><img src="https://gh-card.dev/repos/daily-boj/homepage.svg"></a>
+    </td>
+    <td>
+      <a href="https://github.com/daily-boj/api"><img src="https://gh-card.dev/repos/daily-boj/api.svg"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GwiiLang/Gwii"><img src="https://gh-card.dev/repos/GwiiLang/Gwii.svg"></a>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
+### Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=RanolP)
-
-### Projects I've doing or done
-
-<p>
-  <a href="https://github.com/RanolP/timer-table"><img src="https://gh-card.dev/repos/RanolP/timer-table.svg"></a>
-  <a href="https://github.com/RanolP/boj"><img src="https://gh-card.dev/repos/RanolP/boj.svg"></a>
-  <a href="https://github.com/RanolP/mfsjea.jvm"><img src="https://gh-card.dev/repos/RanolP/mfsjea.jvm.svg"></a>
-  <a href="https://github.com/daily-boj/RanolP"><img src="https://gh-card.dev/repos/daily-boj/RanolP.svg"></a>
-  <a href="https://github.com/daily-boj/homepage"><img src="https://gh-card.dev/repos/daily-boj/homepage.svg"></a>
-  <a href="https://github.com/daily-boj/api"><img src="https://gh-card.dev/repos/daily-boj/api.svg"></a>
-  <a href="https://github.com/GwiiLang/Gwii"><img src="https://gh-card.dev/repos/GwiiLang/Gwii.svg"></a>
-</p>
