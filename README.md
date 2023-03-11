@@ -5,8 +5,8 @@ I'm a student programmer who interested in Web Frontend & Programming Language T
 ### Contact
 
 <p>
-  <a href="mailto:public.ranolp@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-public.ranolp@gmail.com-white?style=social&logo=gmail">
+  <a href="mailto:me@ranolp.dev">
+    <img src="https://img.shields.io/badge/Mail-me@ranolp.dev-white?style=social&logo=gmail">
   </a>
   <a href="https://keybase.io/ranolp">
     <img src="https://img.shields.io/badge/Keybase-ranolp-white?style=social&logo=keybase">
