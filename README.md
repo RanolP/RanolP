@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I'm a student programmer who interested in Web Frontend & Programming Language Theory.
+I'm a programmer who interested in Web Frontend & Programming Language Theory.
 
 ### Contact
 
